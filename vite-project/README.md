@@ -1,8 +1,35 @@
-# React + Vite
+# TP_ReactJs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 1
+Récupérez les données des articles et affichez-les sur votre page
+d'accueil. Assurez-vous que la mise en page de la page d'accueil soit
+ergonomique.
 
-Currently, two official plugins are available:
+### 2
+Créez une page qui affiche uniquement les articles pour hommes et
+mixte.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 3
+Créez une page dédiée à l'affichage exclusif des articles pour femmes et
+mixte.
+
+### 4
+Assurez-vous qu'une barre de navigation soit présente pour faciliter la
+navigation au sein de notre application.
+
+### 5
+Lorsqu'un utilisateur clique sur un article, il devrait être redirigé vers une
+autre page affichant les détails complets de l'article. Cette page doit
+présenter toutes les images associées à l'article ainsi que les informations
+relatives à sa taille. L'ergonomie de cette page est primordiale.
+
+### 6 
+Ajoutez des indications permettant de différencier les articles
+disponibles de ceux qui ne le sont pas.
+
+### 7
+Afficher les étoiles et le nombres d’avis pour chaque article.
+
+### 8
+Implémentez la possibilité de supprimer des articles. Assurez-vous que la
+suppression soit permanente en utilisant le stockage local (localStorage).
